@@ -1,2 +1,2 @@
-# Roguelite
-Roguelite – игра в жанре Roguelite с конструктором заклинаний
+# Magic Roguelite
+Magic Roguelite – игра в жанре Roguelite с конструктором заклинаний
